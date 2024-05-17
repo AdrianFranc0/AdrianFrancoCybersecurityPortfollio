@@ -15,7 +15,7 @@ My love for technolagy has led me to develop a passion for cybersecurity, and I 
 | Skill                                                                         | Associated Project         |
 |-------------------------------------------------------------------------------|----------------------------|
 |Building an network enviornment in a VM and using Powershell/Active directory | <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>|
-|Using Azure SIEM to monitor/manage data from honeypot                                     |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
+|Using Azure SIEM to monitor/manage data from honeypot                          |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
 |Configuring/using Vulnerbility Management to scan for vulnerablities [OpenVAS]|<a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>|
 |Network/PCAP Analysis using WireShark                                         |<a href="https://t.ly/TVqD6">Wireshark Lab VM</a>|
 |Active directory/MITRE ATT&CK Framework/Splunk/investigation                |<a href="https://tinyurl.com/y5bjz2rz">Active Directory 2</a>|
@@ -25,26 +25,22 @@ My love for technolagy has led me to develop a passion for cybersecurity, and I 
 ## Certifications
 <div>
 
+[<img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Certification-darkgrey?style=for-the-badge&logo=IBM&logoColor=lightblue" alt="IBM Cybersecurity Analyst Certification">](https://shorturl.at/PMVQC)
+[<img src="https://img.shields.io/badge/Google_Cybersecurity_Certification-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certification">](https://shorturl.at/zh1q2)
 
-  [https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_ZABNWLpP8QpkGti3p_1697508517611_completion_certificate.pdf] 
-  
-[https://www.credly.com/badges/26ef7e1b-a586-4a09-8b53-dca272be9492/public_url]
-
-[https://www.credly.com/badges/00ebfe33-d358-4f56-b9ff-c7abf842dab9/linked_in_profile]
-</div>
-
-## Projects
-- Active Directory Home Lab
-- Azure SIEM Lab
-- OpenVAS VM Lab
-- Wireshark network-PCAP analysis Lab VM
-- Active Directory 2
 
 
 ---
 
 
+## Projects
 
-- 🔭 I’m currently working on projects, practicing my skills to gain more expirience
-- 🌱 I’m currently taking Microsoft Cybersecurity certification to learn more of Azure/Microsoft tools and getting more familiar with networking
--->
+- <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>
+- <a href="https://t.ly/rJIfU">Azure SIEM Lab</a>
+- <a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>
+- <a href="https://t.ly/TVqD6">Wireshark Lab VM</a>
+- <a href="https://tinyurl.com/y5bjz2rz">Active Directory 2</a>
+
+
+
+
