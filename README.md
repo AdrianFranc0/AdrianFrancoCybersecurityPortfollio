@@ -5,10 +5,13 @@
 
 I am soon to graduate from high school with a profound interest in cybersecurity and a dedication to solving complex problems and bringing value to a company's security posture.
 
+---
+
 ## Objective
 
-
 My love for technolagy has led me to develop a passion for cybersecurity, and I am now eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+---
 
 ## Skills
 
@@ -22,8 +25,36 @@ My love for technolagy has led me to develop a passion for cybersecurity, and I 
 
 </div>
 
-## Certifications
+---
+## Tools
+
+
+### Network
 <div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  
+</div>
+
+### Endpoint
+<div>
+   
+  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### Vulnerability Management/scanner
+<div>
+ <img src="https://img.shields.io/badge/-OpenVAS-4B275F?style=for-the-badge&logo=OpenVAS&logoColor=white" />
+
+<div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure/Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    
+## Certifications
+
+
 
 [<img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Certification-darkgrey?style=for-the-badge&logo=IBM&logoColor=lightblue" alt="IBM Cybersecurity Analyst Certification">](https://shorturl.at/PMVQC)
 [<img src="https://img.shields.io/badge/Google_Cybersecurity_Certification-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certification">](https://shorturl.at/zh1q2)
