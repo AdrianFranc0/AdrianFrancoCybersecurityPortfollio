@@ -3,13 +3,13 @@
 
 
 
-I am soon to graduate from high school with a profound interest in cybersecurity and a dedication to solving complex problems and bringing value to a company's security posture.
+I am currently in westerners governors university for my bachelors in cybersecurity information assurance degree, for 2 years I have had  a profound interest in cybersecurity and a dedication to continuing to learn and grow my skills to bring my value to a company's security posture.
 
 ---
 
 ## Objective
 
-My love for technology has led me to develop a passion for cybersecurity, and I am now eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My love for technology has led me to develop a passion for cybersecurity, and I am now eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a junior Analyst.
 
 ---
 
