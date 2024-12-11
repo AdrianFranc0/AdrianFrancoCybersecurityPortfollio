@@ -3,7 +3,7 @@
 
 
 
-I am currently in westerners governors university for my bachelors in cybersecurity information assurance degree, for 2 years I have had  a profound interest in cybersecurity and a dedication to continuing to learn and grow my skills to bring my value to a company's security posture.
+I am currently in westerners governors university for my bachelors in cybersecurity information assurance degree. For 2 years I have had  a profound interest in cybersecurity and a dedication to continuing to learn and grow my skills to bring my value to a company's security posture.
 
 ---
 
