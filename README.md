@@ -59,9 +59,9 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 ## Certifications
 
 
-
-[<img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Certification-darkgrey?style=for-the-badge&logo=IBM&logoColor=lightblue" alt="IBM Cybersecurity Analyst Certification">](https://shorturl.at/PMVQC)
-[<img src="https://img.shields.io/badge/Google_Cybersecurity_Certification-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certification">](https://shorturl.at/zh1q2)
+[<img src="https://img.shields.io/badge/CompTIA_A+_-red?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification">](https://shorturl.at/hi88T)
+[<img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_-darkgrey?style=for-the-badge&logo=IBM&logoColor=lightblue" alt="IBM Cybersecurity Analyst Certification">](https://shorturl.at/PMVQC)
+[<img src="https://img.shields.io/badge/Google_Cybersecurity_-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certification">](https://shorturl.at/zh1q2)
 
 
 
