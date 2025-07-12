@@ -3,13 +3,13 @@
 
 
 
-I am currently in westerners governors university for my bachelors in cybersecurity information assurance degree. For 2 years I have had  a profound interest in cybersecurity and a dedication to continuing to learn and grow my skills to bring my value to a company's security posture.
+I currently have my bachelors in cybersecurity information assurance through, Western Governors University. For the past 3 years I have had a profound interest in IT/ cybersecurity and a dedication to continuing to learn and grow my skills to bring my value to a company's security posture and IT infrustructure.
 
 ---
 
 ## Objective
 
-My love for technology has led me to develop a passion for cybersecurity, and I am now eager to fully transition into this field, specifically aiming to join a Security Operations Center (SOC) as a junior Analyst.
+My love for technology has led me to develop a passion for cybersecurity, and I am now eager to fully transition into this field, specifically aiming to someday work in a position of a Security Operations Center (SOC) as a junior Analyst.
 
 ---
 
