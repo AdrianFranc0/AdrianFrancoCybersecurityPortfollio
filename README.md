@@ -61,4 +61,4 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
   Identified malware patterns, DNS tunneling, and credential leaks.
 
 - **[Active Directory SIEM Monitoring Lab](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring)**  
-  Simulated attacks (Pass-the-Hash, Kerberoasting), monitored with
+  Simulated attacks monitored with splunk and sysmon
