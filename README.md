@@ -1,7 +1,10 @@
-# Hello, I'm Adrian Franco
-<a href="https://www.linkedin.com/in/adrian-franco-460793200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Adrian Franco – Cybersecurity & IT Portfolio  
 
+<a href="https://www.linkedin.com/in/adrian-franco-460793200/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+---
 
 I currently have my bachelors in cybersecurity information assurance through, Western Governors University. For the past 3 years I have had a profound interest in IT/ cybersecurity and a dedication to continuing to learn and grow my skills to bring my value to a company's security posture and IT infrustructure.
 
@@ -13,83 +16,49 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 
 ---
 
-## Skills
+## 🔐 Core Skills & Tools (Linked to Projects)
 
-| Skill                                                                         | Associated Project         |
-|-------------------------------------------------------------------------------|----------------------------|
-|Building an network enviornment in a VM and using Powershell/Active directory | <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>|
-|Using Azure SIEM to monitor/manage data from honeypot                          |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
-|Configuring/using Vulnerbility Management to scan for vulnerablities [OpenVAS]|<a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>|
-|Network/PCAP Analysis using WireShark                                         |<a href="https://t.ly/TVqD6">Wireshark Lab VM</a>|
-|Active directory/MITRE ATT&CK Framework/Splunk/investigation                |<a href="[https://tinyurl.com/y5bjz2rz](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring)">ActiveDirectory SIEM Monitoring Lab
-</a>|
-
-</div>
-
----
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  
-</div>
-
-### Endpoint
-<div>
-   
-  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### Vulnerability Management/scanner
-<div>
- <img src="https://img.shields.io/badge/-OpenVAS-4B275F?style=for-the-badge&logo=OpenVAS&logoColor=white" />
-
-<div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure/Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-
-### And More
+| Skill Area | Tools / Concepts | Hands-On Projects |
+|------------|------------------|-------------------|
+| **Active Directory & Windows Server** | Domain Services, DNS, DHCP, PowerShell, GPOs, Delegation | [Active Directory Home Lab](https://github.com/AdrianFranc0/Active-Directory-Home-Lab), [Active Directory Pt. 2](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
+| **Image Hardening & Security Baselines** | CIS Benchmarks, Local GPO, Account Lockout Policies | [Golden Image Workstations (IT + SOC)](https://github.com/AdrianFranc0/Golden-Image-IT-and-SOC-Workstations) |
+| **Network Segmentation & ACLs** | VLANs, Inter-VLAN Routing, Layer 3 Switch Configs | [Home Network Lab](https://github.com/AdrianFranc0/Network-Home-Lab) |
+| **SIEM & Detection Engineering** | Splunk, Azure Sentinel, NSG Flow Logs, MITRE ATT&CK | [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project), [Active Directory SIEM Monitoring](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
+| **Vulnerability Assessment** | OpenVAS, CVE Analysis, Risk Reporting | [OpenVAS Vulnerability Lab](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab) |
+| **PCAP & Network Traffic Analysis** | Wireshark, Suspicious Traffic Detection, Malware Flows | [Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) |
+| **IT Automation & Scripting** | PowerShell (AD Tasks), Batch Scripts | [AD Labs - Scripting Focus](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
+| **Security Monitoring & SOC Scenarios** | Detection Rules, Simulated Attacks, Windows Event Logs | [SIEM Monitoring + MITRE Use Cases](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
 
 ---
 
-## Certifications
+## 📁 Project Portfolio
 
+> Each project below represents a practical challenge I set up and solved to build job-ready skills in real-world scenarios.
 
-[<img src="https://img.shields.io/badge/CompTIA_A+_-red?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification">](https://shorturl.at/hi88T)
+### 🔧 IT Infrastructure
 
+- **[Active Directory Home Lab](https://github.com/AdrianFranc0/Active-Directory-Home-Lab)**  
+  Standalone AD environment with DNS, DHCP, and automated user creation.
 
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-red?style=for-the-badge&logo=CompTIA&logoColor=white)](https://shorturl.at/fe5vq)  
+- **[Golden Image: IT + SOC Workstations](https://github.com/AdrianFranc0/Golden-Image-IT-and-SOC-Workstations)**  
+  Hardened Windows 10 base images following security benchmarks.
 
+- **[Active Directory Pt. 2](https://github.com/AdrianFranc0/ActiveDirectory.Pt2)**  
+  Nested OUs, role delegation, login scripts, custom GPOs.
 
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-red?style=for-the-badge&logo=CompTIA&logoColor=white)](https://shorturl.at/BFwLd)  
+- **[Home Network Segmentation Lab](https://github.com/AdrianFranc0/Network-Home-Lab)**  
+  Network isolation using VLANs and inter-VLAN ACL blocking.
 
+### 🛡️ Cybersecurity Projects
 
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA_CySA+-red?style=for-the-badge&logo=CompTIA&logoColor=white)]()  
+- **[Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project)**  
+  Detected real brute-force activity from honeypot logs via Azure Sentinel.
 
+- **[OpenVAS Vulnerability Management](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab)**  
+  Performed scans, interpreted CVEs, and wrote risk summaries.
 
-[<img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_-darkgrey?style=for-the-badge&logo=IBM&logoColor=lightblue" alt="IBM Cybersecurity Analyst Certification">](https://shorturl.at/PMVQC)
+- **[Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM)**  
+  Identified malware patterns, DNS tunneling, and credential leaks.
 
-
-[<img src="https://img.shields.io/badge/Google_Cybersecurity_-blue?style=for-the-badge&logo=Google&logoColor=white" alt="Google Cybersecurity Professional Certification">](https://shorturl.at/zh1q2)
-
-
-
----
-
-
-## Projects
-
-- <a href="https://t.ly/0CUSz">Active Directory Home Lab</a>
-- <a href="https://t.ly/rJIfU">Azure SIEM Lab</a>
-- <a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>
-- <a href="https://t.ly/TVqD6">Wireshark Lab VM</a>
-
-
-
-
-
+- **[Active Directory SIEM Monitoring Lab](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring)**  
+  Simulated attacks (Pass-the-Hash, Kerberoasting), monitored with
