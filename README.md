@@ -21,7 +21,8 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 |Using Azure SIEM to monitor/manage data from honeypot                          |<a href="https://t.ly/rJIfU">Azure SIEM Lab</a>|
 |Configuring/using Vulnerbility Management to scan for vulnerablities [OpenVAS]|<a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>|
 |Network/PCAP Analysis using WireShark                                         |<a href="https://t.ly/TVqD6">Wireshark Lab VM</a>|
-|Active directory/MITRE ATT&CK Framework/Splunk/investigation                |<a href="https://tinyurl.com/y5bjz2rz">Active Directory 2</a>|
+|Active directory/MITRE ATT&CK Framework/Splunk/investigation                |<a href="[https://tinyurl.com/y5bjz2rz](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring)">ActiveDirectory SIEM Monitoring Lab
+</a>|
 
 </div>
 
@@ -87,7 +88,7 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 - <a href="https://t.ly/rJIfU">Azure SIEM Lab</a>
 - <a href="https://t.ly/xg5cs">OpenVAS VM Lab</a>
 - <a href="https://t.ly/TVqD6">Wireshark Lab VM</a>
-- <a href="https://tinyurl.com/y5bjz2rz">Active Directory 2</a>
+
 
 
 
