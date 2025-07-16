@@ -26,7 +26,7 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 | **SIEM & Detection** | Splunk, Azure Sentinel, NSG Flow Logs, MITRE ATT&CK | [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project), [Active Directory SIEM Monitoring](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
 | **Vulnerability Assessment** | OpenVAS, CVE Analysis, Risk Reporting | [OpenVAS Vulnerability Lab](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab) |
 | **PCAP & Network Traffic Analysis** | Wireshark, Suspicious Traffic Detection, Malware Flows | [Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) |
-| **IT GPO and tasks** | PowerShell (AD Tasks) | [AD Tasks/ Lab](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
+| **IT GPO & tasks** | PowerShell (AD Tasks) | [AD Tasks/ Lab](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
 | **Security Monitoring & SOC Scenarios** | Detection Rules, Simulated Attacks, Windows Event Logs | [SIEM Monitoring + MITRE Use Cases](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
 
 ---
