@@ -28,6 +28,9 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 | **PCAP & Network Traffic Analysis** | Wireshark, Suspicious Traffic Detection, Malware Flows | [Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) |
 | **IT GPO & tasks** | PowerShell (AD Tasks) | [AD Tasks/ Lab](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
 | **Security Monitoring & SOC Scenarios** | Detection Rules, Simulated Attacks, Windows Event Logs | [SIEM Monitoring + MITRE Use Cases](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
+| [Microsoft Entra ID + Intune Lab](https://github.com/AdrianFranc0/Microsoft-Entra-ID-Intune-Lab) | Modern identity + device enrollment, conditional access | ✅ Complete |
+| [Mobile Device Management (iOS with Intune)](https://github.com/AdrianFranc0/Mobile-Device-Management-with-IOS---Microsoft-Intune) | Endpoint/device control for mobile (iOS MDM policies, app deployment) | ✅ Complete |
+
 
 ---
 
@@ -48,6 +51,12 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 
 - **[Home Network Segmentation Lab](https://github.com/AdrianFranc0/Network-Home-Lab)**  
   Network isolation using VLANs and inter-VLAN ACL blocking.
+  
+- **[Microsoft Entra ID + Intune Lab](https://github.com/AdrianFranc0/Microsoft-Entra-ID-Intune-Lab)**  
+  Modern identity management: Entra ID tenant setup, user/group provisioning, conditional access policies, and device enrollment with Intune.
+
+- **[Mobile Device Management (iOS with Intune)](https://github.com/AdrianFranc0/Mobile-Device-Management-with-IOS---Microsoft-Intune)**  
+  Configured iOS device policies with Intune (password/PIN, app restrictions, data sharing controls) and published corporate apps via Company Portal.  
 
 ### 🛡️ Cybersecurity Projects
 
@@ -62,3 +71,26 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 
 - **[Active Directory SIEM Monitoring Lab](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring)**  
   Simulated attacks monitored with splunk and sysmon
+
+  ### 🚀 Upcoming Projects
+
+- **Company Branding & Self-Service Portal**  
+  Customize login screens, add company branding, and enable self-service password reset in Entra ID.
+
+- **Role-Based Access Control (RBAC)**  
+  Define Helpdesk vs Global Admin roles in Entra ID/Intune with least-privilege access.
+
+- **Conditional Access with Risk-Based Policies**  
+  MFA only for risky logins (new location/device), block logins outside the US — simulating zero-trust access.
+
+- **Intune Device Compliance + Conditional Access**  
+  Require compliant devices (BitLocker, Defender AV, no jailbreak) to access Outlook, SharePoint, Teams.
+
+- **Intune Remote Wipe / Retire Simulation**  
+  Simulate lost/stolen laptop scenario by remotely wiping or retiring a device.
+
+- **Defender for Endpoint Integration (Lite)**  
+  Centralize Defender telemetry into Intune dashboards for basic endpoint security monitoring.
+
+- **App Protection Policies (Mobile Simulation)**  
+  Create policies preventing Outlook/OneDrive data from being copied into personal apps like Gmail or local storage.
