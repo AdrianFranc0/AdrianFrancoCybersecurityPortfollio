@@ -30,6 +30,7 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 | **Security Monitoring & SOC Scenarios** | Detection Rules, Simulated Attacks, Windows Event Logs | [SIEM Monitoring + MITRE Use Cases](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
 | [Microsoft Entra ID + Intune Lab](https://github.com/AdrianFranc0/Microsoft-Entra-ID-Intune-Lab) | Modern identity + device enrollment, conditional access | ✅ Complete |
 | [Mobile Device Management (iOS with Intune)](https://github.com/AdrianFranc0/Mobile-Device-Management-with-IOS---Microsoft-Intune) | Endpoint/device control for mobile (iOS MDM policies, app deployment) | ✅ Complete |
+| **Zero Trust Identity & Conditional Access** | Entra ID Conditional Access, Risk-based Policies, Trusted IPs, MFA Enforcement | [Zero Trust Access Control Lab](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access) |
 
 
 ---
@@ -59,6 +60,9 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
   Configured iOS device policies with Intune (password/PIN, app restrictions, data sharing controls) and published corporate apps via Company Portal.  
 
 ### 🛡️ Cybersecurity Projects
+
+- **[Zero Trust Access Control with Conditional Access](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access)**  
+  Built Entra ID Conditional Access policies: blocked non-US logins, enforced MFA outside Trusted IPs, and validated Anonymous IP (Tor) logins flagged as risky before enabling policies in Active mode.
 
 - **[Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project)**  
   Detected real brute-force activity from honeypot logs via Azure Sentinel.
