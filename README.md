@@ -31,6 +31,7 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 | [Microsoft Entra ID + Intune Lab](https://github.com/AdrianFranc0/Microsoft-Entra-ID-Intune-Lab) | Modern identity + device enrollment, conditional access | ✅ Complete |
 | [Mobile Device Management (iOS with Intune)](https://github.com/AdrianFranc0/Mobile-Device-Management-with-IOS---Microsoft-Intune) | Endpoint/device control for mobile (iOS MDM policies, app deployment) | ✅ Complete |
 | **Zero Trust Identity & Conditional Access** | Entra ID Conditional Access, Risk-based Policies, Trusted IPs, MFA Enforcement | [Zero Trust Access Control Lab](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access) |
+| **Incident Response (Endpoint)** | Intune Retire/Wipe actions, Device Lifecycle, Offboarding Scenarios | [Remote Wipe / Retire Simulation](https://github.com/AdrianFranc0/Incident-Response-Remote-Wipe-Retire-Simulation) |
 
 
 ---
@@ -64,6 +65,9 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 - **[Zero Trust Access Control with Conditional Access](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access)**  
   Built Entra ID Conditional Access policies: blocked non-US logins, enforced MFA outside Trusted IPs, and validated Anonymous IP (Tor) logins flagged as risky before enabling policies in Active mode.
 
+- **[iOS DLP with Intune App Protection](https://github.com/AdrianFranc0/iOS-DLP-with-Intune-App-Protection)**  
+  Enforced app-level DLP controls (PIN, encryption, copy/paste/save restrictions, screenshot blocking) on Outlook and OneDrive for iOS. Demonstrated secure BYOD data protection without requiring full device enrollment.
+
 - **[Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project)**  
   Detected real brute-force activity from honeypot logs via Azure Sentinel.
 
@@ -76,25 +80,14 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 - **[Active Directory SIEM Monitoring Lab](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring)**  
   Simulated attacks monitored with splunk and sysmon
 
+- **[Remote Wipe / Retire Simulation](https://github.com/AdrianFranc0/Incident-Response-Remote-Wipe-Retire-Simulation)**  
+  Simulated incident response in Intune: issued **Retire** to remove corporate footprint from a BYOD-style device, then re-enrolled and executed **Wipe** to factory reset a Windows VM (lost/stolen laptop scenario). Verified completion via Intune Device Actions and endpoint reset to OOBE.
+  
   ### 🚀 Upcoming Projects
 
 - **Company Branding & Self-Service Portal**  
   Customize login screens, add company branding, and enable self-service password reset in Entra ID.
 
-- **Role-Based Access Control (RBAC)**  
-  Define Helpdesk vs Global Admin roles in Entra ID/Intune with least-privilege access.
-
-- **Conditional Access with Risk-Based Policies**  
-  MFA only for risky logins (new location/device), block logins outside the US — simulating zero-trust access.
-
-- **Intune Device Compliance + Conditional Access**  
-  Require compliant devices (BitLocker, Defender AV, no jailbreak) to access Outlook, SharePoint, Teams.
-
-- **Intune Remote Wipe / Retire Simulation**  
-  Simulate lost/stolen laptop scenario by remotely wiping or retiring a device.
-
 - **Defender for Endpoint Integration (Lite)**  
   Centralize Defender telemetry into Intune dashboards for basic endpoint security monitoring.
 
-- **App Protection Policies (Mobile Simulation)**  
-  Create policies preventing Outlook/OneDrive data from being copied into personal apps like Gmail or local storage.
