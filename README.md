@@ -24,7 +24,6 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 | **Image Hardening & Security Baselines** | CIS Benchmarks, Local GPO, Account Lockout Policies | [Golden Image Workstations (IT + SOC)](https://github.com/AdrianFranc0/Golden-Image-IT-and-SOC-Workstations) |
 | **Network Segmentation & ACLs** | VLANs, Inter-VLAN Routing, Layer 3 Switch Configs | [Home Network Lab](https://github.com/AdrianFranc0/Network-Home-Lab) |
 | **SIEM & Detection** | Splunk, Azure Sentinel, NSG Flow Logs, MITRE ATT&CK | [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project), [Active Directory SIEM Monitoring](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
-| **Vulnerability Assessment** | OpenVAS, CVE Analysis, Risk Reporting | [OpenVAS Vulnerability Lab](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab) |
 | **PCAP & Network Traffic Analysis** | Wireshark, Suspicious Traffic Detection, Malware Flows | [Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) |
 | **IT GPO & tasks** | PowerShell (AD Tasks) | [AD Tasks/ Lab](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
 | **Security Monitoring & SOC Scenarios** | Detection Rules, Simulated Attacks, Windows Event Logs | [SIEM Monitoring + MITRE Use Cases](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
