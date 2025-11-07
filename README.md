@@ -70,8 +70,6 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 - **[Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project)**  
   Detected real brute-force activity from honeypot logs via Azure Sentinel.
 
-- **[OpenVAS Vulnerability Management](https://github.com/AdrianFranc0/OpenVAS-Vulnerability-Management-Lab)**  
-  Performed scans, interpreted CVEs, and wrote risk summaries.
 
 - **[Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM)**  
   Identified malware patterns, DNS tunneling, and credential leaks.
