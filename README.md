@@ -25,7 +25,7 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 | **Network Segmentation & ACLs** | VLANs, Inter-VLAN Routing, Layer 3 Switch Configs | [Home Network Lab](https://github.com/AdrianFranc0/Network-Home-Lab) |
 | **SIEM & Detection** | Splunk, Azure Sentinel, NSG Flow Logs, MITRE ATT&CK | [Azure SIEM Project](https://github.com/AdrianFranc0/Azure-SIEM-Project), [Active Directory SIEM Monitoring](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
 | **PCAP & Network Traffic Analysis** | Wireshark, Suspicious Traffic Detection, Malware Flows | [Wireshark PCAP Lab](https://github.com/AdrianFranc0/Wireshark-network-PCAP-analysis-Lab-VM) |
-| **IT GPO & tasks** | PowerShell (AD Tasks) | [AD Tasks/ Lab](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
+| **IT GPO & tasks** |  (AD Tasks) | [AD Tasks/ Lab](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
 | **Security Monitoring & SOC Scenarios** | Detection Rules, Simulated Attacks, Windows Event Logs | [SIEM Monitoring + MITRE Use Cases](https://github.com/AdrianFranc0/ActiveDirectory_SIEM_Monitoring) |
 | [Microsoft Entra ID + Intune Lab](https://github.com/AdrianFranc0/Microsoft-Entra-ID-Intune-Lab) | Modern identity + device enrollment, conditional access | ✅ Complete |
 | [Mobile Device Management (iOS with Intune)](https://github.com/AdrianFranc0/Mobile-Device-Management-with-IOS---Microsoft-Intune) | Endpoint/device control for mobile (iOS MDM policies, app deployment) | ✅ Complete |
