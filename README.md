@@ -20,6 +20,7 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 
 | Skill Area | Tools / Concepts | Hands-On Projects |
 |------------|------------------|-------------------|
+| **Identity & Access Management (IAM)** | Cisco Duo, MFA, Duo Push, Windows Logon Protection, Authentication Logs | [Active Directory + Cisco Duo MFA Deployment for Windows Logon](https://github.com/AdrianFranc0/Active-Directory-Cisco-Duo-MFA-Deployment-for-Windows-Logon) |
 | **Active Directory & Windows Server** | Domain Services, DNS, DHCP, PowerShell, GPOs, Delegation | [Active Directory Home Lab](https://github.com/AdrianFranc0/Active-Directory-Home-Lab), [Active Directory Pt. 2](https://github.com/AdrianFranc0/ActiveDirectory.Pt2) |
 | **Image Hardening & Security Baselines** | CIS Benchmarks, Local GPO, Account Lockout Policies | [Golden Image Workstations (IT + SOC)](https://github.com/AdrianFranc0/Golden-Image-IT-and-SOC-Workstations) |
 | **Network Segmentation & ACLs** | VLANs, Inter-VLAN Routing, Layer 3 Switch Configs | [Home Network Lab](https://github.com/AdrianFranc0/Network-Home-Lab) |
@@ -60,6 +61,9 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
   Configured iOS device policies with Intune (password/PIN, app restrictions, data sharing controls) and published corporate apps via Company Portal.  
 
 ### 🛡️ Cybersecurity Projects
+
+- **[Active Directory + Cisco Duo MFA Deployment for Windows Logon](https://github.com/AdrianFranc0/Active-Directory-Cisco-Duo-MFA-Deployment-for-Windows-Logon)**  
+  Deployed Cisco Duo MFA in an Active Directory lab environment to protect Windows logon authentication. Configured user enrollment, Duo Mobile device registration, Microsoft RDP protection, Duo Push authentication, and authentication log monitoring for successful and failed login attempts.
 
 - **[Zero Trust Access Control with Conditional Access](https://github.com/AdrianFranc0/Zero-Trust-Access-Control-with-Conditional-Access)**  
   Built Entra ID Conditional Access policies: blocked non-US logins, enforced MFA outside Trusted IPs, and validated Anonymous IP (Tor) logins flagged as risky before enabling policies in Active mode.
